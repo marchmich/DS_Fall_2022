@@ -7,7 +7,7 @@
 ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
 
 
-This repository contains information about Data Science course, in particular, I share QC material, I hope you find useful for your careeers.
+This repository contains information about Data Science course, in particular, I share QC material, I hope you find useful for your majors.
 
 *by: Javier Orduz*
 
